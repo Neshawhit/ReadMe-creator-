@@ -32,6 +32,10 @@ function generateMarkdown(data) {
 1. [Description](#description)
 2. [License](#license)
 3. [Usage](#usage)
+4. [Installation](#installation)
+5. [Test](#test)
+6. [Contributing](#contributing)
+7. [Questions](#questions)
 ## Description
 
 ${data.description}
@@ -40,14 +44,14 @@ ${data.description}
 ${data.license}
 ## Usage
 ${data.usage}
-## installation
+## Installation
 ${data.installation}
-## test
+## Test
 ${data.test}
-## contribution
-${data.contribution}
+## Contributing
+${data.contributing}
 
-## questions
+## Questions
 For any questions you can reach out to me @
 ${data.email} 
 </br>
